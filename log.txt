@@ -1,0 +1,12 @@
+12월 26, 2021 2:09:06 오후 exception.MyLogger log
+정보: 이름이 비었어요
+12월 26, 2021 2:09:06 오후 exception.MyLogger log
+경고: 이름이 비었어요
+12월 26, 2021 2:09:06 오후 exception.MyLogger log
+심각: 이름이 비었어요
+12월 26, 2021 2:09:06 오후 exception.MyLogger log
+정보: 이름이 너무 깁니다.
+12월 26, 2021 2:09:06 오후 exception.MyLogger log
+경고: 이름이 너무 깁니다.
+12월 26, 2021 2:09:06 오후 exception.MyLogger log
+심각: 이름이 너무 깁니다.
